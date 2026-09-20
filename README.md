@@ -5,7 +5,11 @@
 <br/>
 
 <h1>Hi there, I'm Rohit 👋</h1>
-<h3>[Full-Stack Developer | AI/ML Enthusiast | UI/UX Design Lead]</h3>
+
+<!-- Dynamic Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Enthusiast;UI%2FUX+Design+Lead" alt="Typing SVG" />
+</a>
 
 <p>
   <i>B.Tech ECE undergraduate at IIIT Kota, blending software engineering, artificial intelligence, and design. Currently building robust platforms like AI-assisted legal tech and health diagnostic tools.</i>
@@ -38,34 +42,35 @@ Beyond the code, I have a strong eye for aesthetics. As the **Design Lead at III
 
 ### 🛠️ Tech Stack & Arsenal
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<div align="center">
+  
+**Languages** <br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,sql&theme=dark" />
+</a>
 
-**Frontend**
 <br/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 
-**Backend & AI/ML**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-FFFFFF?style=flat-square&logo=langchain&logoColor=black" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+**Frontend & Design** <br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark" />
+</a>
 
-**Design & DevOps**
 <br/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+
+**Backend & AI/ML** <br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb,tensorflow&theme=dark" />
+</a>
+
+<br/>
+
+**DevOps & Tools** <br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel&theme=dark" />
+</a>
+
+</div>
 
 ---
 
@@ -91,12 +96,12 @@ Beyond the code, I have a strong eye for aesthetics. As the **Design Lead at III
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techoprohit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="techoprohit's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=techoprohit&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="techoprohit's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=techoprohit&theme=tokyonight&hide_border=true" alt="techoprohit's Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techoprohit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techoprohit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="50%" />
 </div>
