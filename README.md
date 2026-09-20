@@ -42,35 +42,30 @@ Beyond the code, I have a strong eye for aesthetics. As the **Design Lead at III
 
 ### 🛠️ Tech Stack & Arsenal
 
-<div align="center">
-  
-**Languages** <br/>
+**Languages & Databases** <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,postgres,mongodb,mysql&theme=dark" alt="Languages and Databases"/>
 </a>
 
+<br/><br/>
+
+**Frontend, Design & DevOps** <br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,git,github,docker,linux,vscode,vercel&theme=dark" alt="Frontend and DevOps"/>
+</a>
+
+<br/><br/>
+
+**Backend & Core AI/ML** <br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,tensorflow&theme=dark" alt="Backend and AI"/>
+</a>
 <br/>
-
-**Frontend & Design** <br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark" />
-</a>
-
-<br/>
-
-**Backend & AI/ML** <br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb,tensorflow&theme=dark" />
-</a>
-
-<br/>
-
-**DevOps & Tools** <br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel&theme=dark" />
-</a>
-
-</div>
+<img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" />
+<img src="https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 ---
 
@@ -89,19 +84,27 @@ Beyond the code, I have a strong eye for aesthetics. As the **Design Lead at III
 * **Design Lead @ IIIT Kernel (Sept 2024 - Present):** Designed visual identities, event creatives, and digital marketing materials using Figma and Adobe Express for college-wide tech initiatives.
 * **Co-Coordinator @ Quills 'n' Stills (Sept 2024 - Present):** Directed creative workflows and content strategies while coordinating club activities.
 * **Hackathons:** Secured Top 60 out of 500+ teams at the SVVV Indore National Hackathon & Top 100 out of 1000+ teams at the IIIT Delhi HackHatch.
-* **Certifications:** HackerRank SQL (Advanced) Certification.
+
+---
+
+### 📜 Certifications
+
+| Certification / Participation | Issuer | Link |
+| :--- | :--- | :--- |
+| **SQL (Advanced) Certification** | HackerRank | [View Certificate](#) |
+| **HackHatch: Startup Hackathon** | E-Cell, IIIT Delhi | [View Details](#) |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techoprohit&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="techoprohit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techoprohit&theme=tokyonight&hide_border=true" alt="techoprohit's Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=techoprohit&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="techoprohit's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=techoprohit&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="techoprohit's Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techoprohit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techoprohit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" width="50%" />
 </div>
