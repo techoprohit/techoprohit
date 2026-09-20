@@ -22,6 +22,9 @@
   <a href="https://www.codechef.com/users/techoprohit" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-Peak%201532-%235B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
   </a>
+  <a href="https://drive.google.com/file/d/1rfcI_zsCZAddTO15G7isRFUp1WLcUuNM/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume">
+  </a>
 </p>
 
 </div>
@@ -30,7 +33,7 @@
 
 ### 👨‍💻 About Me
 
-I am currently pursuing my B.Tech in Electronics & Communication Engineering at **IIIT Kota (2024-2028)**. My passion lies in creating end-to-end applications that solve tangible problems—whether that is making legal navigation accessible or deploying offline medical detection models. 
+I am currently pursuing my B.Tech in Electronics & Communication Engineering at **IIIT Kota (2024-2028)**. My passion lies in creating end-to-end applications that solve tangible problems-whether that is making legal navigation accessible or deploying offline medical detection models. 
 
 Beyond the code, I have a strong eye for aesthetics. As the **Design Lead at IIIT Kernel** and **Co-Coordinator for Quills 'n' Stills**, I direct creative workflows, design visual identities, and foster tech communities.
 
@@ -42,30 +45,34 @@ Beyond the code, I have a strong eye for aesthetics. As the **Design Lead at III
 
 ### 🛠️ Tech Stack & Arsenal
 
-**Languages & Databases** <br/>
+**Languages** <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,postgres,mongodb,mysql&theme=dark" alt="Languages and Databases"/>
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts&theme=dark" alt="Languages"/>
 </a>
-
 <br/><br/>
 
-**Frontend, Design & DevOps** <br/>
+**Frontend & Web Design** <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,git,github,docker,linux,vscode,vercel&theme=dark" alt="Frontend and DevOps"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark" alt="Frontend and Web Design"/>
 </a>
-
 <br/><br/>
 
-**Backend & Core AI/ML** <br/>
+**Backend & Databases** <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,tensorflow&theme=dark" alt="Backend and AI"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,mysql&theme=dark" alt="Backend and Databases"/>
 </a>
-<br/>
-<img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" />
-<img src="https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<br/><br/>
+
+**AI & Data Science** <br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,tensorflow&theme=dark" alt="AI and Data Science"/>
+</a>
+<br/><br/>
+
+**DevOps & Tools** <br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel&theme=dark" alt="DevOps and Tools"/>
+</a>
 
 ---
 
@@ -73,7 +80,7 @@ Beyond the code, I have a strong eye for aesthetics. As the **Design Lead at III
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **Nyaya Saathi** | AI-assisted legal navigation platform with a verified RAG pipeline to guide citizens toward concrete legal actions without hallucinations. | `Next.js` `FastAPI` `LangChain` `pgvector` | Live |
+| **Nyaya Saathi** | AI-assisted legal navigation platform with a verified RAG pipeline to guide citizens toward concrete legal actions without hallucinations. | `Next.js` `FastAPI` `LangChain` `pgvector` | [Live](https://nyaayasaathi.vercel.app/) |
 | **NeuroLens** | Offline mobile application analyzing speech/facial patterns for early Alzheimer's detection. Achieved 86% on-device detection accuracy. | `Python` `TensorFlow Lite` | Open Source |
 | **TruCheck** | Real-time anti-phishing browser extension evaluating website trustworthiness through live security intelligence and threat detection. | `JavaScript` `Node.js` `MongoDB` | Open Source |
 
@@ -81,8 +88,10 @@ Beyond the code, I have a strong eye for aesthetics. As the **Design Lead at III
 
 ### 🏆 Achievements & Leadership
 
-* **Design Lead @ IIIT Kernel (Sept 2024 - Present):** Designed visual identities, event creatives, and digital marketing materials using Figma and Adobe Express for college-wide tech initiatives.
-* **Co-Coordinator @ Quills 'n' Stills (Sept 2024 - Present):** Directed creative workflows and content strategies while coordinating club activities.
+* **Design Lead @ IIIT Kernel (Sept 2024 - Present):**
+Designed visual identities, event creatives, and digital marketing materials using Figma and Adobe Express for college-wide tech initiatives.
+* **Co-Coordinator @ Quills 'n' Stills (Sept 2024 - Present):**
+Directed creative workflows and content strategies while coordinating club activities.
 * **Hackathons:** Secured Top 60 out of 500+ teams at the SVVV Indore National Hackathon & Top 100 out of 1000+ teams at the IIIT Delhi HackHatch.
 
 ---
@@ -91,8 +100,8 @@ Beyond the code, I have a strong eye for aesthetics. As the **Design Lead at III
 
 | Certification / Participation | Issuer | Link |
 | :--- | :--- | :--- |
-| **SQL (Advanced) Certification** | HackerRank | [View Certificate](#) |
-| **HackHatch: Startup Hackathon** | E-Cell, IIIT Delhi | [View Details](#) |
+| **SQL (Advanced) Certification** | HackerRank | [View](https://drive.google.com/file/d/1BD__hMKTSKTrasy8qeqc4JD1Pj35t3RP/view?usp=drive_link)|
+| **HackHatch: Startup Hackathon** | E-Cell, IIIT Delhi | [View](https://drive.google.com/file/d/1wKpsF6wKkdchSJsTEX55Eig76HesTZ9I/view?usp=drive_link)|
 
 ---
 
