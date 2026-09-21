@@ -50,25 +50,21 @@ Beyond the code, I have a strong eye for aesthetics. As the **Design Lead at III
   <img src="https://skillicons.dev/icons?i=cpp,py,js,ts&theme=dark" alt="Languages"/>
 </a>
 <br/><br/>
-
 **Frontend & Web Design** <br/>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark" alt="Frontend and Web Design"/>
 </a>
 <br/><br/>
-
 **Backend & Databases** <br/>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,mysql&theme=dark" alt="Backend and Databases"/>
 </a>
 <br/><br/>
-
 **AI & Data Science** <br/>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,fastapi,tensorflow&theme=dark" alt="AI and Data Science"/>
 </a>
 <br/><br/>
-
 **DevOps & Tools** <br/>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel&theme=dark" alt="DevOps and Tools"/>
